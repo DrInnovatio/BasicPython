@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa8d856c-2b29-41cb-897b-b6c09d37fb8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section-2-DataTypes/Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-2-DataTypes/exercise-String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BasicPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BasicPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section-2-DataTypes/Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section-2-DataTypes/Numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +23,7 @@
   </component>
   <component name="ProjectId" id="1af64dczjhYNoTc9HIkm14cQUjt" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
