@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa8d856c-2b29-41cb-897b-b6c09d37fb8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section-2-DataTypes/ListAndTuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-2-DataTypes/exercise-ListsAndTuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-2-DataTypes/exercise-Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section-2-DataTypes/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section-2-DataTypes/exercise-Dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +38,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise-ListsAndTuples">
+  <component name="RunManager" selected="Python.exercise-Dictionary">
+    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BasicPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-2-DataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-2-DataTypes/Dictionaries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ListAndTuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise-Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-2-DataTypes/Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-2-DataTypes/exercise-Dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,34 +144,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise-String" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BasicPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-2-DataTypes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-2-DataTypes/exercise-String.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise-Dictionary" />
+        <item itemvalue="Python.Dictionaries" />
         <item itemvalue="Python.exercise-ListsAndTuples" />
         <item itemvalue="Python.ListAndTuples" />
         <item itemvalue="Python.exercise-Numbers" />
-        <item itemvalue="Python.Numbers" />
-        <item itemvalue="Python.exercise-String" />
       </list>
     </recent_temporary>
   </component>
