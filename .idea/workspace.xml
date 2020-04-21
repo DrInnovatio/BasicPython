@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa8d856c-2b29-41cb-897b-b6c09d37fb8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section-2-DataTypes/Booleans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-2-DataTypes/exercise-Boolean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/Conditionals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/AndOrOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-Conditionals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +24,7 @@
   </component>
   <component name="ProjectId" id="1af64dczjhYNoTc9HIkm14cQUjt" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,7 +38,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Conditionals">
+  <component name="RunManager" selected="Python.exercise-Conditionals">
+    <configuration name="AndOrOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BasicPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/AndOrOperators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Booleans" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,27 +102,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BasicPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-2-DataTypes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-2-DataTypes/Dictionaries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="exercise-Boolean" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise-Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise-Conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-2-DataTypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-2-DataTypes/exercise-Dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-Conditionals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise-Conditionals" />
+        <item itemvalue="Python.AndOrOperators" />
         <item itemvalue="Python.Conditionals" />
         <item itemvalue="Python.exercise-Boolean" />
         <item itemvalue="Python.Booleans" />
-        <item itemvalue="Python.exercise-Dictionary" />
-        <item itemvalue="Python.Dictionaries" />
       </list>
     </recent_temporary>
   </component>
