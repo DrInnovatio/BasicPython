@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa8d856c-2b29-41cb-897b-b6c09d37fb8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/forLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/whileLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/dataValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/errorHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-errorHandling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-Conditionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-Conditionals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-Loops.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +26,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1af64dczjhYNoTc9HIkm14cQUjt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,8 +44,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise-Loops">
-    <configuration name="AndOrOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Function">
+    <configuration name="Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/AndOrOperators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/Function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise-Conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dataValidation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-Conditionals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/dataValidation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise-Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="errorHandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-Loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/errorHandling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forLoop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise-errorHandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/forLoop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section-3-ConditionalsLoopsFunction/exercise-errorHandling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercise-Loops" />
-        <item itemvalue="Python.forLoop" />
+        <item itemvalue="Python.Function" />
         <item itemvalue="Python.whileLoop" />
-        <item itemvalue="Python.exercise-Conditionals" />
-        <item itemvalue="Python.AndOrOperators" />
+        <item itemvalue="Python.exercise-errorHandling" />
+        <item itemvalue="Python.dataValidation" />
+        <item itemvalue="Python.errorHandling" />
       </list>
     </recent_temporary>
   </component>

@@ -35,7 +35,7 @@ while True:
         myColor = input("Enter your color again : ")
 
 
-# Tutor's answer  
+# Tutor's answer
 
 while True:
     color = colors[random.randint(0, len(colors) - 1)]
