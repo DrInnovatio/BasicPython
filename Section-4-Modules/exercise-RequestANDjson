@@ -53,11 +53,13 @@ while endGame != "quit":
         else:
             print("Sorry, " + html.unescape(user_answer) + " is incorrect. The correct answer is : " + html.unescape(correct_answer))
             score_incorrect += 1
+
         print("\n#############################")
         print("Your score is : ")
         print("Correct answers : " + str(score_correct))
         print("Incorrect answers : " + str(score_incorrect))
         print("\n#############################")
+
         endGame = input("\nPress enter to play again or type 'quit' to finish the game.").lower()
 
 print("The End")
