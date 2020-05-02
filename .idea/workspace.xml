@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa8d856c-2b29-41cb-897b-b6c09d37fb8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearning/kNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/KNNnew.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
